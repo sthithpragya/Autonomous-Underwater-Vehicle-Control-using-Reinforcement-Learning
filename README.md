@@ -8,6 +8,6 @@ A Deep Actor-Critic based framework has been implemented to train the agent whic
 
 The aim is to train the agent, and then simulate and test the learned behaviour in UnderWater Simulator UWSim (http://www.irs.uji.es/uwsim/)
 
-The project uses the Stable-Baselines library to train the agent. The environment file of the project has been written in accordance with the Stable Baselines' guidelines and also takes into account the underwater ocean dynamics (borrowed from UWSim).
+The project uses the Stable-Baselines library to train a PPO2 based agent. The environment file of the project has been written in accordance with the Stable Baselines' guidelines and also takes into account the underwater ocean dynamics (borrowed from UWSim).
 
 For more details about the project and implementation, refer the project report AUV_RL.pdf.
